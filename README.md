@@ -1,4 +1,4 @@
-## Using Survey Responses to Predict Heart Disease
+#### Using Survey Responses to Predict Heart Disease
 
 This repository takes a dataset containing survey responses collected by the CDC in an effort to predict heart disease or attack.
 
